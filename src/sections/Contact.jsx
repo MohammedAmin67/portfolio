@@ -44,7 +44,7 @@ export const Contact = () => {
 
       if (!serviceId || !templateId || !publicKey) {
         throw new Error(
-          "EmailJS configuration is missing. Please check your environment vairables before proceeding",
+          "EmailJS configuration is missing. Please check your environment variables before proceeding",
         );
       }
 
