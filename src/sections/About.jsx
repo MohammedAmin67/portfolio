@@ -46,18 +46,20 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I’m a passionate full stack web developer who enjoys building
-                real-world applications and continuously improving my skills. My
-                journey started with curiosity about how websites work, and over
-                time it turned into a strong interest in creating modern,
-                user-friendly web experiences.
+                I’m a full stack web developer who likes to build working
+                applications and improve skills by developing real projects. I
+                firstly became interested in web development and wanted to know
+                how websites actually operated behind the scenes, and this
+                curiosity of mine turned into an interest in building such
+                applications myself.
               </p>
 
               <p>
-                I work with technologies like JavaScript, React, and backend
-                tools to develop complete web solutions. I focus on writing
-                clean, efficient code and learning best practices through
-                projects and hands-on experience.
+                I mainly build my applications using React and backend
+                technologies like Node.js to create complete web applications.
+                Throughout all my projects, I properly learnt how to structure
+                code, connecting frontend to backend and also to work with
+                databases.
               </p>
 
               <p>
