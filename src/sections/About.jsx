@@ -70,9 +70,9 @@ export const About = () => {
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "I aim to build clean and efficient web applications that people
-                genuinely enjoy using, with a strong focus on quality and
-                continuous improvement."
+                "I try to build web applications that are clean, reliable and
+                easy for people to use, while constantly improving myself to get
+                better."
               </p>
             </div>
           </div>
