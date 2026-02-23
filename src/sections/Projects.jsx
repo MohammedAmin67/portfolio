@@ -57,13 +57,13 @@ const projects = [
   },
 
   {
-    title: "Movie App",
+    title: "qubitedge",
     description:
-      "A responsive movie discovery application that lets users browse trending films, search movies in real time, view detailed information, and explore ratings using a modern UI.",
-    image: "/projects/movie.png",
-    tags: ["React", "Vite", "Tailwind CSS", "API Integration"],
-    link: "https://mohammedamin67.github.io/Movie-app/",
-    github: "https://github.com/MohammedAmin67/Movie-app",
+      "Precision manufacturing, machining, assembly, design, and quality inspection services for high-performance engineering needs.",
+    image: "/projects/qubitedge.png",
+    tags: ["React", "Vite", "Tailwind CSS"],
+    link: "https://qubitedge.vercel.app",
+    github: "https://github.com/qubitedge/qubitedge",
   },
 ];
 
