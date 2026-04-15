@@ -116,7 +116,7 @@ export const Projects = () => {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-103"
+                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
                 />
 
                 <div
