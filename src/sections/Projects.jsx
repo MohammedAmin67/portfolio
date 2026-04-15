@@ -31,11 +31,19 @@ const projects = [
   {
     title: "EduSmart",
     description:
-      "A gamified learning platform with interactive lessons, quizzes, achievements, XP system, and analytics dashboard to make education engaging and personalized.",
+      "An AI powered gamified learning platform with interactive lessons, quizzes, achievements, XP system, and analytics dashboard to make education engaging and personalized.",
     image: "/projects/edusmart.png",
-    tags: ["React", "Vite", "Tailwind CSS", "NodeJS", "Express", "MongoDB"],
-    link: "https://edusmart-frontend.onrender.com/",
-    github: "https://github.com/MohammedAmin67/EduSmart",
+    tags: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "NodeJS",
+      "Express",
+      "MongoDB",
+      "Cloudinary",
+    ],
+    link: "https://edusmart-learn.vercel.app/",
+    github: "https://github.com/MohammedAmin67/edusmart_main",
   },
 
   {
@@ -108,7 +116,7 @@ export const Projects = () => {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                  className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-103"
                 />
 
                 <div
