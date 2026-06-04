@@ -87,7 +87,7 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I’m Amin — a full stack developer who enjoys building web
+                Hi, I’m Amin — a Full Stack Developer who enjoys building web
                 applications and turning ideas into real projects. I like
                 working on Linux, learning new technologies, and continuously
                 improving to create better software solutions.
