@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Impact Lab",
     description:
-      "An interactive asteroid impact simulator and planetary defense game with real-time physics, 3D visualizations, data analytics, and scientifically accurate simulations.",
+      "An interactive asteroid impact simulator including a planetary defense game with real-time physics, 3D visualizations, data analytics, and scientifically accurate simulations.",
     image: "/projects/impact.png",
     tags: ["React", "Vite", "Tailwind CSS", "Three.js", "D3.js"],
     link: "https://meteor-madness-frontend.onrender.com/",
@@ -77,7 +77,7 @@ const projects = [
 
 export const Projects = () => {
   return (
-    <section id="projects" className="py-32 relative overflow-hidden">
+    <section id="projects" className="py-18 relative overflow-hidden">
       {/* Background Glow */}
       <div className="absolute top-1/4 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl" />
       <div className="absolute bottom-1/4 left-0 w-64 h-64 bg-highlight/5 rounded-full blur-3xl" />
@@ -156,7 +156,7 @@ export const Projects = () => {
                    group-hover:-translate-y-1 transition-all"
                   />
                 </div>
-                <p className="text-muted-foreground text-sm">
+                <p className="text-muted-foreground text-justify text-sm">
                   {project.description}
                 </p>
                 <div className="flex flex-wrap gap-2">

@@ -25,7 +25,7 @@ const highlights = [
 
 export const About = () => {
   return (
-    <section id="about" className="py-32 relative overflow-hidden">
+    <section id="about" className="py-18 relative overflow-hidden">
       <div className="container mx-auto px-6 relative z-10">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Left Column */}
@@ -44,7 +44,7 @@ export const About = () => {
               </span>
             </h2>
 
-            <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
+            <div className="space-y-4 text-muted-foreground text-justify animate-fade-in animation-delay-200">
               <p>
                 I’m a full stack web developer who likes to build working
                 applications and improve skills by developing real projects. I
@@ -69,10 +69,9 @@ export const About = () => {
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
-              <p className="text-lg font-medium italic text-foreground">
-                "I try to build web applications that are clean, reliable and
-                easy for people to use, while constantly improving myself to get
-                better."
+              <p className="text-lg font-medium italic text-foreground text-justify">
+                "I build web applications that are clean, reliable and easy for
+                people to use, while improving myself to get better."
               </p>
             </div>
           </div>

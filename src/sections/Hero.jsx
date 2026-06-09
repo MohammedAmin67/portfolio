@@ -86,7 +86,7 @@ export const Hero = () => {
                   precision
                 </span>
               </h1>
-              <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
+              <p className="text-lg text-muted-foreground text-justify max-w-lg animate-fade-in animation-delay-200">
                 Hi, I’m Amin. I’m a developer who enjoys learning by building.
                 Whether it’s a small project or a bigger application, I like the
                 process of turning it into something people can actually use.
@@ -173,19 +173,6 @@ export const Hero = () => {
             </div>
           </div>
         </div>
-      </div>
-
-      <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 
-      animate-fade-in animation-delay-800"
-      >
-        <a
-          href="#about"
-          className="flex flex-col items-center gap-2 text-muted-foreground hover:text-primary transition-colors group"
-        >
-          <span className="text-xs uppercase tracking-wider">Scroll</span>
-          <ChevronDown className="w-6 h-6 animate-bounce cursor-pointer" />
-        </a>
       </div>
     </section>
   );
