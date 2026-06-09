@@ -87,23 +87,26 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I’m Amin — a Full Stack Developer who enjoys building web
-                applications and turning ideas into real projects. I like
-                working on Linux, learning new technologies, and continuously
-                improving to create better software solutions.
+                Hi, I’m Amin. I’m a developer who enjoys learning by building.
+                Whether it’s a small project or a bigger application, I like the
+                process of turning it into something people can actually use.
+                I’m always exploring new technologies, improving myself, and
+                looking for the next best thing to learn.
               </p>
             </div>
 
             {/* Call To Actions (CTA's) */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-              <Button size="large">
-                Contact Me
-                <ArrowRight className="w-5 h-5" />
-              </Button>
+              <a href="#contact">
+                <Button size="large">
+                  Contact Me
+                  <ArrowRight className="w-5 h-5" />
+                </Button>
+              </a>
 
               <AnimatedBorderButton>
                 <a
-                  href="https://drive.google.com/uc?export=download&id=196a2FkzS9n08KOwpx2IuhNmITE0jfJ51"
+                  href="https://drive.google.com/uc?export=download&id=1dJyXQwoJoD6ASnayNnsO77nIJCIS15Jr"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
                 >
