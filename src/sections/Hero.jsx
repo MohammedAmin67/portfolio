@@ -106,7 +106,7 @@ export const Hero = () => {
 
               <AnimatedBorderButton>
                 <a
-                  href="https://drive.google.com/uc?export=download&id=1dJyXQwoJoD6ASnayNnsO77nIJCIS15Jr"
+                  href="https://drive.google.com/uc?export=download&id=1MAegiQGHynz-EPelC4UmksubrXVkCQFW"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
                 >
