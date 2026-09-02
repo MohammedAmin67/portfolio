@@ -13,9 +13,11 @@
     "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.1.18",
     "@vercel/analytics": "^2.0.1",
+    "i18next": "^26.4.0",
     "lucide-react": "^0.562.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-i18next": "^17.0.12",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {

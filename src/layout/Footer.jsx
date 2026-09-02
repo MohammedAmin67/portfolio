@@ -28,9 +28,6 @@ export const Footer = () => {
             <a href="#" className="text-xl font-bold tracking-tight">
               MA<span className="text-primary">.</span>
             </a>
-            <p className="text-sm text-muted-foreground mt-2">
-              © {currentYear} Mohammed Amin. All rights reserved.
-            </p>
           </div>
 
           {/* Links */}
